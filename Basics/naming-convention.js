@@ -1,4 +1,5 @@
 //Naming Convention
+// Use kebab case for regular JavaScript files i.e. naming-convention.js
 //for var use camelCase
 var myName ='Dipen Shrestha';
 console.log(myName);
