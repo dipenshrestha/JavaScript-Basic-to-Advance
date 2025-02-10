@@ -14,7 +14,7 @@ The repository is organized into different sections for easier reference.
 ### ✅ **Basics**
 
 - #### Naming Conventions
-  - Template literals, kebab-case, camelCase, PascalCase, SCREAMING*SNAKE_CASE, lowercase, UPPERCASE, prefixes (is, has, #, *)
+  - Template literals, kebab-case, camelCase, PascalCase, SCREAMING_SNAKE_CASE, lowercase, UPPERCASE, prefixes ( is, has, #, * )
 - Variables (`let`, `const`, `var`)
 - Data Types & Operators
 - Functions & Scope
