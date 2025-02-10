@@ -7,3 +7,23 @@ body {
 h1 {
     color: #333;
 }
+
+/* Responsive Logo */
+.logo {
+    width: 100%; /* Makes it responsive */
+    max-width: 200px; /* Prevents it from getting too large */
+    height: auto; /* Maintains aspect ratio */
+}
+
+/* Responsive Design */
+@media screen and (max-width: 600px) {
+    .logo {
+        max-width: 150px; /* Adjusts logo size for smaller screens */
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .logo {
+        max-width: 120px; /* Even smaller for very small screens */
+    }
+}
