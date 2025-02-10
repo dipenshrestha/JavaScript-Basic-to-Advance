@@ -17,6 +17,16 @@ function getName(dogName, ownerName){
 }
 console.log(getName('puppy','dipen'));
 
+// Template Literals
+// provide a cleaner and more flexible way to handle strings
+// allow string interpolation using ${}, 
+// support multiline strings without escape sequences,
+// and enable function calls within strings
+var a = 10;
+var b = 20;
+console.log(`The sum of ${a} and ${b} is ${a + b}.`);
+console.log(`The sum of 5 and 10 is ${5 + 10}.`);
+
 //for Constant use uppercase
 const PI = 3.14159;
 /* If the variable declaration name contains 
