@@ -9,8 +9,8 @@ The repository is organized into different sections for easier reference.
 
 ## 📚 Topics Covered
 ### ✅ **Basics**
-- #### **Naming Conventions**
-    -Template literals, camelCase, PascalCase, SCREAMING_SNAKE_CASE, lowercase, UPPERCASE
+- #### Naming Conventions
+    - Template literals, camelCase, PascalCase, SCREAMING_SNAKE_CASE, lowercase, UPPERCASE
 - Variables (`let`, `const`, `var`)
 - Data Types & Operators
 - Functions & Scope
